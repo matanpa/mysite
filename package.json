@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanpa/mysite.git"
+  },
+  "author": "mapaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matanpa/mysite/issues"
+  },
+  "homepage": "https://github.com/matanpa/mysite#readme"
+}
